@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Hill Road",
+    "price": 2,
+    "image": "https://i.imgur.com/bEcwFPa.jpg",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Green Forest",
+    "price": 3.56,
+    "image": "https://i.imgur.com/p0QY6SG.jpg",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Lake Road",
+    "price": 1.2,
+    "image": "https://i.imgur.com/qJ7CNBY.jpg",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Sky Grass",
+    "price": 4.9,
+    "image": "https://i.imgur.com/Pu87SoH.jpg",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Air Craft",
+    "price": 3.6,
+    "image": "https://i.imgur.com/hwhHpsi.jpg",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Sea Ramp",
+    "price": 4.25,
+    "image": "https://i.imgur.com/aQfPIUX.jpg",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Earth Moon",
+    "price": 2.82,
+    "image": "https://i.imgur.com/sxIYhAL.jpg",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Polar Glacier",
+    "price": 5.69,
+    "image": "https://i.imgur.com/55PSWpE.jpg",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Park Bench",
+    "price": 2.6,
+    "image": "https://i.imgur.com/LLkv4m4.jpg",
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Jupiter Nebula",
+    "price": 3.47,
+    "image": "https://i.imgur.com/CH5R8vb.jpg",
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Moon Road",
+    "price": 2.2,
+    "image": "https://i.imgur.com/OtoHsX1.jpg",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Snow Ramp",
+    "price": 1.6,
+    "image": "https://i.imgur.com/Cc5Rl4P.jpg",
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Blue Ice",
+    "price": 3.92,
+    "image": "https://i.imgur.com/NJ0Dzmz.jpg",
+    "available": false
+  },
+  {
+    "id": 14,
+    "name": "Mystic Curve",
+    "price": 2.5,
+    "image": "https://i.imgur.com/IiajbJH.jpg",
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Tech Circuit",
+    "price": 1.6,
+    "image": "https://i.imgur.com/qHp8gz5.jpg",
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Dual Galaxy",
+    "price": 4.72,
+    "image": "https://i.imgur.com/ArvHfjZ.jpg",
+    "available": true
+  },
+  {
+    "id": 17,
+    "name": "Milky Way",
+    "price": 1.25,
+    "image": "https://i.imgur.com/WG7PBOu.jpg",
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Super Car",
+    "price": 2.9,
+    "image": "https://i.imgur.com/WAXO4Mq.jpg",
+    "available": true
+  }
+]
